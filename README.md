@@ -1,1 +1,1 @@
-# data_analytics
+Exploratory projects for Data Analytics
